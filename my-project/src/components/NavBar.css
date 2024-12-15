@@ -1,0 +1,41 @@
+.search{
+    width: 50%;
+    font-size: 14px;
+    height: 40px;
+    margin-top: 1%;
+    border: none;
+    margin-left: 1%;
+}
+
+.input {
+    display: flex;
+    flex-direction: row;
+    width: 30%;
+    border: 1px solid black;
+    height: 50px;
+    margin-top: 2.25%;
+    padding-left: 2%;
+}
+.input svg{
+    margin-top: 3.5%;
+}
+.anchor {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top:2.5%;
+    height: 50px;
+    
+    width: 50%;
+}
+
+.anchor a {
+    margin-top: 1%;
+    margin-left: 15%;
+}
+
+.anchor img {
+    height: 70%;
+    width: 90%;
+}
+
